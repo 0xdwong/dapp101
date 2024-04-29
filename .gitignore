@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+
+# Production
+/build
+
+# Generated files
+.docusaurus
+.cache-loader
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+docs/nft-rental/readdata/assets/gateway-network-diagram.png
+docs/nft-rental/readdata/assets/image-20240428下午111527980.png
+docs/nft-rental/readdata/assets/image-20240428下午113636024.png
+docs/nft-rental/readdata/assets/Web3-Development-Tech-Stack-1024x407.png
